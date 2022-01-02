@@ -1,0 +1,64 @@
+.repository-item {
+  background-color: #f8f8ff;
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.avatar-url {
+  height: 60px;
+  width: 60px;
+}
+.repo-name {
+  color: #e73959;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.stars {
+  height: 15px;
+  width: 15px;
+  margin-right: 10px;
+}
+.stars-count-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.forks {
+  height: 15px;
+  width: 15px;
+  margin-right: 10px;
+}
+.forks-count-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.open-issues {
+  height: 15px;
+  width: 15px;
+  margin-right: 10px;
+}
+.open-issues-container {
+  display: flex;
+  align-items: center;
+}
+.stars-count {
+  font-size: 14px;
+  color: #1e293b;
+  font-weight: 500;
+}
+.forks-count {
+  font-size: 14px;
+  color: #1e293b;
+  font-weight: 500;
+}
+.issues-count {
+  font-size: 14px;
+  color: #1e293b;
+  font-weight: 500;
+}

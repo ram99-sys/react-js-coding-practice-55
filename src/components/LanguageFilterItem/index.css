@@ -1,0 +1,12 @@
+.language-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 4px 8px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.apply-border {
+  border: 2px solid #0284c7;
+  border-radius: 20px;
+}
